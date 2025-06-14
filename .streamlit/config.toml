@@ -6,4 +6,5 @@ textColor="#262730"
 font="sans serif"
 
 dependencyMode = "requirements"
-maxCacheAge = 0  # Force fresh installs
+maxCacheAge = 0  # Disable cache
+installTimeout = 600  # 10-minute timeout
