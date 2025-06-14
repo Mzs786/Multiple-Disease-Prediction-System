@@ -5,3 +5,5 @@ streamlit-option-menu==0.3.2
 protobuf==3.20.1
 seaborn==0.13.0
 bcrypt
+prophet
+cmdstanpy
