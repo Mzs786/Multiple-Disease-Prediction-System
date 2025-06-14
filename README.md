@@ -36,4 +36,4 @@ Live App: [https://multiple-disease-prediction-system.streamlit.app](https://mul
 - **matplotlib**, **seaborn**
 - **plotly**
 - **bcrypt**, **sqlite3**
-- **prophet** *
+- **prophet** 
