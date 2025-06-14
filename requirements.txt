@@ -1,3 +1,9 @@
+# Add these before other dependencies
+rich==14.0.0
+markdown-it-py==3.0.0
+Pygments==2.19.1
+mdurl==0.1.2
+
 # Core dependencies
 streamlit==1.32.0
 scikit-learn==1.4.0
