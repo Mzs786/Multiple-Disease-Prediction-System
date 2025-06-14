@@ -1,6 +1,6 @@
-# Core requirements only
+# Use wheels instead of source builds
 streamlit==1.32.0
-scikit-learn==1.4.0
+scikit-learn==1.4.0.post0  # Pre-built version
 pandas==2.1.4
 numpy==1.26.0
 matplotlib==3.8.0

@@ -6,3 +6,4 @@ textColor="#262730"
 font="sans serif"
 
 dependencyMode = "requirements"
+maxCacheAge = 0  # Force fresh installs
