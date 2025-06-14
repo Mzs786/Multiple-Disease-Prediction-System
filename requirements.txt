@@ -4,3 +4,5 @@ matplotlib
 streamlit-option-menu
 seaborn
 bcrypt
+plotly
+prophet
