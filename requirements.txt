@@ -1,3 +1,5 @@
+python>=3.10,<3.11
+
 streamlit==1.32.0
 scikit-learn==1.4.0
 matplotlib==3.8.0
@@ -5,3 +7,8 @@ streamlit-option-menu==0.3.2
 protobuf==3.20.3
 seaborn==0.13.0
 bcrypt==4.0.1
+
+# Installation Flags
+--use-feature=fastinstall
+--only-binary=:all:
+--timeout=300
