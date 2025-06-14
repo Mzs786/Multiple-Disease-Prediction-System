@@ -1,5 +1,5 @@
 streamlit
-scikit-learn=1.4.0
+scikit-learn==1.4.0
 matplotlib
 streamlit-option-menu
 seaborn
