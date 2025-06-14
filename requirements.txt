@@ -1,7 +1,6 @@
-streamlit==1.32.0
-scikit-learn==1.4.0
-matplotlib==3.8.0
-streamlit-option-menu==0.3.2
-protobuf==3.20.3
-seaborn==0.13.0
-bcrypt==4.0.1
+streamlit
+scikit-learn
+matplotlib
+streamlit-option-menu
+seaborn
+bcrypt
